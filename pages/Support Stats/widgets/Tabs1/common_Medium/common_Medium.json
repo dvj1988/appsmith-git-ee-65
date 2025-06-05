@@ -1,8 +1,8 @@
 {
   "animateLoading": true,
   "backgroundColor": "#f3e8ff",
-  "borderColor": "#f3e8ff",
-  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "borderColor": "#fee2e2",
+  "borderRadius": "0.375rem",
   "borderWidth": "1",
   "bottomRow": 404,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
@@ -48,7 +48,7 @@
         "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
       },
       "parentColumnSpace": 1,
-      "parentId": "9hzatn8ct9",
+      "parentId": "6h7ky25r5f",
       "parentRowSpace": 1,
       "renderMode": "CANVAS",
       "responsiveBehavior": "fill",
@@ -56,15 +56,12 @@
       "topRow": 0,
       "type": "CANVAS_WIDGET",
       "version": 1,
-      "widgetId": "ww73yymsgc",
-      "widgetName": "Canvas1Copy1Copy1Copy1Copy3CopyCopy3Copy"
+      "widgetId": "ol1cgtrsz4",
+      "widgetName": "Canvas1Copy1Copy1Copy1Copy3CopyCopy6"
     }
   ],
   "displayName": "Stats Box",
   "dynamicBindingPathList": [
-    {
-      "key": "borderRadius"
-    },
     {
       "key": "boxShadow"
     }
@@ -97,7 +94,7 @@
   "originalBottomRow": 404,
   "originalTopRow": 302,
   "parentColumnSpace": 15.484375,
-  "parentId": "273627z65z",
+  "parentId": "2bdfzpwfna",
   "parentRowSpace": 10,
   "positioning": "fixed",
   "renderMode": "CANVAS",
@@ -113,6 +110,6 @@
   "thumbnailSVG": "/static/media/thumbnail.8acd8070c8c88f657e7fd6c650aecc0c.svg",
   "topRow": 302,
   "type": "STATBOX_WIDGET",
-  "widgetId": "9hzatn8ct9",
-  "widgetName": "common_Medium"
+  "widgetId": "6h7ky25r5f",
+  "widgetName": "common_medium"
 }
